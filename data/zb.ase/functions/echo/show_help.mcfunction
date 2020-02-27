@@ -1,0 +1,4 @@
+# play click sound #
+function zb.ase:echo/click_sound
+
+tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n[使用说明]\n","color":"yellow"},{"text":"  [选定盔甲架]\n","color":"gold"},{"text":"    手持盔甲架选择器","color":"green"},{"text":"[点击获取]","color":"light_blue","clickEvent":{"action":"run_command","value":"/function zb.ase:get_item"},"hoverEvent":{"action":"show_text","value":"点此获取盔甲架选择器"}},{"text":"然后\n","color":"green"},{"text":"    对着盔甲架按下潜行键，选中的盔甲\n","color":"green"},{"text":"    架会发光并在聊天栏发出提示是否\n","color":"green"},{"text":"    对该盔甲架进行编辑，点击编辑按钮\n","color":"green"},{"text":"    即可打开编辑界面上\n","color":"green"},{"text":"  [编辑界面]\n","color":"gold"},{"text":"    在编辑界面可以对盔甲架各种属性\n","color":"green"},{"text":"    进行编辑，具体请查看编辑界面\n","color":"green"},{"text":"  [清空盔甲架忽略列表]","color":"red","clickEvent":{"action":"run_command","value":"/function zb.ase:selector/empty_ignore"},"hoverEvent":{"action":"show_text","value":"点此清空盔甲架忽略列表"}}]

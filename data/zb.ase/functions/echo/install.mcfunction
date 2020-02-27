@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[安装本模组]","color":"green","clickEvent":{"action":"run_command","value":"/function zb.ase:install"},"hoverEvent":{"action":"show_text","value":"点击安装"}}]

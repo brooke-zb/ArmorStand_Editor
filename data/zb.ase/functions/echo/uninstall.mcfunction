@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[卸载本模组]","color":"red","clickEvent":{"action":"run_command","value":"/function zb.ase:uninstall"},"hoverEvent":{"action":"show_text","value":"点击卸载"}},{"text":"\n[更新式卸载]","color":"gold","clickEvent":{"action":"run_command","value":"/function zb.ase:update_uninstall"},"hoverEvent":{"action":"show_text","value":"点击卸载\n保留剪贴板、忽略列表等用户信息\n更新本数据包时可用"}}]

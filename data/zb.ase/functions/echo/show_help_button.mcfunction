@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[使用说明]","color":"yellow","clickEvent":{"action":"run_command","value":"/function zb.ase:echo/show_help"},"hoverEvent":{"action":"show_text","value":"盔甲架编辑器使用说明"}}]
