@@ -1,0 +1,16 @@
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 1 ^ ^ ^ 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 1 ^ ^ ^0.2 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 1 ^ ^ ^0.4 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.9 ^ ^ ^0.6 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.9 ^ ^ ^0.8 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.8 ^ ^ ^1 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.8 ^ ^ ^1.2 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.7 ^ ^ ^1.4 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.3 0.5 1 0.7 ^ ^ ^1.6 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.4 0.5 1 0.6 ^ ^ ^1.8 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.5 0.5 1 0.6 ^ ^ ^2 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.6 0.5 1 0.5 ^ ^ ^2.2 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.7 0.5 1 0.5 ^ ^ ^2.4 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.8 0.4 1 0.4 ^ ^ ^2.6 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 0.9 0.3 1 0.4 ^ ^ ^2.8 0 0 0 0 1
+execute at @e[type=armor_stand,tag=zb.ase_edit] run particle dust 1 0 0 1 ^ ^ ^3 0 0 0 0 1
