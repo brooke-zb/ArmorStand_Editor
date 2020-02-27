@@ -1,0 +1,1 @@
+give @s minecraft:armor_stand{zb.ase:true,EntityTag:{ShowArms:1b,NoBasePlate:1b,Tags:["zb.ase_place"]},Enchantments:[{id:"minecraft:efficiency",lvl:1s}],display:{Name:'{"text":"盔甲架选择器","italic":false,"color":"gold"}'}} 1
